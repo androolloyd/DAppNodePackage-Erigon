@@ -1,6 +1,6 @@
 {
   "name": "otterscan.public.dappnode.eth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "shortDescription": "A blazingly fast, local, Ethereum block explorer built on top of Erigon",
   "description": "A blazingly fast, local, Ethereum block explorer built on top of Erigon",
   "upstreamVersion": "v2021.07.04",
